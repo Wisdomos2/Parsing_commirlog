@@ -1,0 +1,59 @@
+- # 저장소 정 보 # -
+- > Commit Branch name  : http://git.sw.co.kr/domestic/SwLogistics/commits/master
+- > Info Source : SwLogistics:master commits
+- > Last Updated : 2018-10-31T04:36:52Z
+- > Additional Info : Maximum length of Commit Context is 77.
+--------------------------------------------------------------------------------------------------
+Commit Id : http://git.sw.co.kr/domestic/SwLogistics/commit/841e7468f030afe2262b5472e72fe51b2ab36764
+Updated Date : 2018-10-31T04:36:52Z
+Commit Context : jsmo / w_m10018 / ue_save 에서 DataModified -> update일 때, UPDATE_DATE, UPDATE_E...
+Author Name : jsmo
+Author Email : jsmo@sw.co.kr
+--------------------------------------------------------------------------------------------------
+Commit Id : http://git.sw.co.kr/domestic/SwLogistics/commit/f17327c8879c157abe3a665c516b1091b4931830
+Updated Date : 2018-10-31T04:12:29Z
+Commit Context : jsmo / w_m10018, d_m10018_p, d_m10018_entry, d_m10018_cond / 휴일관리프로그램 업로드.
+Author Name : server
+Author Email : jsmo@sw.co.kr
+--------------------------------------------------------------------------------------------------
+Commit Id : http://git.sw.co.kr/domestic/SwLogistics/commit/84248e5955dd86c4d90cdfa4c2a23f517567314d
+Updated Date : 2018-10-23T00:58:30Z
+Commit Context : apply to gitignore
+Author Name : server
+Author Email : jsmo@sw.co.kr
+--------------------------------------------------------------------------------------------------
+Commit Id : http://git.sw.co.kr/domestic/SwLogistics/commit/9ea51f29198f798aae7247a17124f326a9fe99a2
+Updated Date : 2018-10-22T08:35:32Z
+Commit Context : jsmo / .gitignore file, Compile files / Commit 무시파일 셋팅 테스트 중.
+Author Name : server
+Author Email : jsmo@sw.co.kr
+--------------------------------------------------------------------------------------------------
+Commit Id : http://git.sw.co.kr/domestic/SwLogistics/commit/4136cd4f0a10161b5e05adabaea987139ece9f67
+Updated Date : 2018-10-19T06:29:24Z
+Commit Context : 운임구분 선택 못하는 현상 수정 2
+Author Name : 이윤형
+Author Email : marine3769@sw.co.kr
+--------------------------------------------------------------------------------------------------
+Commit Id : http://git.sw.co.kr/domestic/SwLogistics/commit/29a2fa3c4ec2cc10c160a2700869bcfd1938765e
+Updated Date : 2018-10-19T06:07:57Z
+Commit Context : 수정 김도형 차장 요청으로 인한  운임구분 사라지는 현상 수정
+Author Name : 이윤형
+Author Email : marine3769@sw.co.kr
+--------------------------------------------------------------------------------------------------
+Commit Id : http://git.sw.co.kr/domestic/SwLogistics/commit/8d877bda509ab506007e54117c701398026b68ad
+Updated Date : 2018-10-17T07:40:08Z
+Commit Context : Merge branch 'master' of http://git.sw.co.kr/domestic/SwLogistics
+Author Name : jsmo
+Author Email : jsmo@sw.co.kr
+--------------------------------------------------------------------------------------------------
+Commit Id : http://git.sw.co.kr/domestic/SwLogistics/commit/df1402b06d6f7e77fcff4811709e7c5420d5c981
+Updated Date : 2018-10-17T07:39:32Z
+Commit Context : Initial upload
+Author Name : jsmo
+Author Email : jsmo@sw.co.kr
+--------------------------------------------------------------------------------------------------
+Commit Id : http://git.sw.co.kr/domestic/SwLogistics/commit/66d426a818e92d86bee1cea171d8c58302bd350c
+Updated Date : 2018-10-16T02:14:21Z
+Commit Context : Initial commit
+Author Name : Administrator
+Author Email : admin@example.com
