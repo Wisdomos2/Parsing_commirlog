@@ -42,7 +42,8 @@ public class LogController {
 		
 		/* 년도 검사, 2015년 - 이번년도, 숫자 */
 		int maxpgYear = vm.getMaxYear();
-		if(fm.checkyear(usrgetYear, maxpgYear) == false)
+		int minpgYear = vm.getMinYear();
+		if(fm.checkyear(usrgetYear, minpgYear ,maxpgYear) == false)
 		{
 			return;
 		}

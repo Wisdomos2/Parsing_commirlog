@@ -6,7 +6,16 @@ import java.util.Date;
 public class VariableModel {
 	static private int maxYear = 0;
 	static private int pgCount = 11;
+	static private int minYear = 2015;
 	
+	public int getMinYear() {
+		return minYear;
+	}
+
+	public void setMinYear(int minYear) {
+		VariableModel.minYear = minYear;
+	}
+
 	public int getMaxYear() {
 		return maxYear;
 	}
